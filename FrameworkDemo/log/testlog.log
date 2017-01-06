@@ -1,0 +1,20 @@
+2016-12-09 13:24:03,081 - com.testscript.LogOut -INFO - Login to Hallwaze
+2016-12-09 13:24:03,084 - com.testscript.LogOut -INFO - Hell
+2016-12-09 13:24:17,000 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #1.
+2016-12-09 13:24:17,025 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #2.
+2016-12-09 13:24:17,042 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #3.
+2016-12-09 14:01:00,001 - com.testscript.LogOut -INFO - Login to Hallwaze
+2016-12-09 14:01:00,004 - com.testscript.LogOut -INFO - Hell
+2016-12-09 14:01:13,670 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #1.
+2016-12-09 14:01:13,697 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #2.
+2016-12-09 14:01:13,715 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #3.
+2016-12-09 14:16:59,721 - com.testscript.LogOut -INFO - Login to Hallwaze
+2016-12-09 14:16:59,723 - com.testscript.LogOut -INFO - Hell
+2016-12-09 14:17:13,374 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #1.
+2016-12-09 14:17:13,403 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #2.
+2016-12-09 14:17:13,424 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #3.
+2016-12-09 14:18:26,252 - com.testscript.LogOut -INFO - Login to Hallwaze
+2016-12-09 14:18:26,254 - com.testscript.LogOut -INFO - Hell
+2016-12-09 14:18:40,465 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #1.
+2016-12-09 14:18:40,508 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #2.
+2016-12-09 14:18:40,596 - org.apache.fop.apps.FOUserAgent -INFO - Rendered page #3.
